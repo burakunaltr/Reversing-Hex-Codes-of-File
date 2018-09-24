@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf8 -*-
 
-import binascii
-
 __author__      = "Burak Ünal"
 __email__       = "burakunalofficial[H0RS3]gmail.com"
+
+import binascii
 
 print("Hex Kodlarını Ters Çevireceğiniz Dosyayı Giriniz..")
 dosya = str(input("Dosya : "))
