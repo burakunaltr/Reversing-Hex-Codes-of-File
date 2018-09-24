@@ -3,6 +3,9 @@
 
 import binascii
 
+__author__      = "Burak Ünal"
+__email__       = "burakunalofficial[H0RS3]gmail.com"
+
 print("Hex Kodlarını Ters Çevireceğiniz Dosyayı Giriniz..")
 dosya = str(input("Dosya : "))
 with open(dosya,'rb') as f: #Gösterilen dosya okunur.
