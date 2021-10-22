@@ -22,3 +22,4 @@ with open(cikti,'wb') as fout: #Çıktı için dosya oluşturulur
     fout.write(binascii.a2b_hex(reverseHex)) #Ters çevrilmiş hex kodları dosyaya yazılır.
 
 print("O iş Tamam ;)")
+#test
