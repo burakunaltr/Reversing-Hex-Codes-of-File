@@ -23,3 +23,4 @@ with open(cikti,'wb') as fout: #Çıktı için dosya oluşturulur
 
 print("O iş Tamam ;)")
 #test
+#test2
